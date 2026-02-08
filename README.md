@@ -36,16 +36,16 @@ I believe that true mastery of AI comes from understanding the gradients. My wor
 
 ## 📂 Featured Projects
 
-### 🧠 [Probabilistic Neural Language Model](link-a-tu-repo)
+### 🧠 [Probabilistic Neural Language Model]()
 A PyTorch implementation of the seminal **Bengio et al. (2003)** paper. Focuses on word feature vectors (embeddings) and distributed representations before the Transformer era.
 
-### ⚡ [MLP Autograd Engine](link-a-tu-repo)
+### ⚡ [MLP Autograd Engine]()
 Inspired by Micrograd. A deep dive into the mechanics of backpropagation, building an MLP from basic scalar values to understand how every partial derivative flows through the graph.
 
-### 📊 [EBM & Energy-Based Variants](link-a-tu-repo)
+### 📊 [EBM & Energy-Based Variants]()
 Exploration of Energy-Based Model variants, focusing on alternative ways to define loss and objective functions in neural architectures.
 
-### 🔤 [Character-Level Bigram Model](link-a-tu-repo)
+### 🔤 [Character-Level Bigram Model]()
 A foundational NLP project exploring probabilistic character transitions and the basics of generative modeling.
 
 ---
@@ -56,8 +56,5 @@ A foundational NLP project exploring probabilistic character transitions and the
 - 🔭 **Physics & AI:** Exploring the intersection of computational physics and machine learning.
 
 ---
-
-📫 **How to reach me:**
-[Tu LinkedIn] | [Tu Email] | [Tu Twitter/X si tienes]
 
 *"In mathematics you don't understand things. You just get used to them." — John von Neumann*
