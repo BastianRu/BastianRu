@@ -10,7 +10,7 @@ I believe that true mastery of AI comes from understanding the gradients. My wor
 
 - **Current Goal:** Full implementation of "Attention is All You Need" (Transformers) from scratch.
 - **Academic Honors:** - 🏆 **Two-time Academic Merit Scholarship** (Highest GPA in the program).
-  - 🥇 **Ranked 1st** in National Standardized Exam (ICFES) at my graduating institution.
+  - 🥇 **National Academic Excellence Recognition (Ranked 1st in High School Standardized Exam).
 
 ---
 
