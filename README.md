@@ -1,9 +1,63 @@
-### Hi there 👋
+# Hi, I'm [Tu Nombre] 👋
+### Computer Engineering Student | Machine Learning Core & AI Engineering
 
-- 🔭 I’m currently working on improve my ML development skills
-- 🌱 I’m currently learning about MLPs, NLP, CNNs, Transformers, Statistics
-- 🤔 I’m looking for help with anything what i can
-- 🔑 I'm into Calculus, Linear Algebra, Physics, Computer Science
-- 😄 Pronouns: he/him
+I am a passionate Computer Engineering student at **Universidad del Cauca**, currently in my 5th semester. My focus is on understanding the **mathematical and theoretical foundations** of Artificial Intelligence, moving beyond high-level abstractions to build systems from the ground up.
 
+---
 
+## 🔬 The "From Scratch" Philosophy
+I believe that true mastery of AI comes from understanding the gradients. My work focuses on implementing core architectures using only low-level tensor operations, avoiding high-level "black box" libraries whenever possible.
+
+- **Current Goal:** Full implementation of "Attention is All You Need" (Transformers) from scratch.
+- **Academic Honors:** - 🏆 **Two-time Academic Merit Scholarship** (Highest GPA in the program).
+  - 🥇 **Ranked 1st** in National Standardized Exam (ICFES) at my graduating institution.
+
+---
+
+## 🛠️ Technical Arsenal
+
+### **Machine Learning & AI**
+* **Foundations:** Implementation of SGD, Backpropagation (manual), and Loss Functions (MSE, NLL, Cross-Entropy) from derivative definitions.
+* **Probabilistic Modeling:** Experience with Probabilistic Language Models (Bengio 2003), Energy-Based Models (EBM), and N-gram models.
+* **Deep Learning:** Building Multi-Layer Perceptrons (MLPs) from scalar autograd engines.
+
+### **Tech Stack**
+* **Languages:** Python (Expert), C++, SQL.
+* **Frameworks:** PyTorch (Low-level/NumPy-style usage).
+* **AI Engineering:** Docker, Git/GitHub, Environment Management.
+* **In Progress:** JAX, TensorFlow, ONNX, and Cloud Deployment (AWS/GCP).
+
+### **Mathematics**
+* **Linear Algebra:** Advanced proficiency.
+* **Calculus:** Differential, Multivariable, and Vector Calculus.
+* **Statistics:** Currently pursuing specialized certification in Statistics & Probability for Data Science.
+
+---
+
+## 📂 Featured Projects
+
+### 🧠 [Probabilistic Neural Language Model](link-a-tu-repo)
+A PyTorch implementation of the seminal **Bengio et al. (2003)** paper. Focuses on word feature vectors (embeddings) and distributed representations before the Transformer era.
+
+### ⚡ [MLP Autograd Engine](link-a-tu-repo)
+Inspired by Micrograd. A deep dive into the mechanics of backpropagation, building an MLP from basic scalar values to understand how every partial derivative flows through the graph.
+
+### 📊 [EBM & Energy-Based Variants](link-a-tu-repo)
+Exploration of Energy-Based Model variants, focusing on alternative ways to define loss and objective functions in neural architectures.
+
+### 🔤 [Character-Level Bigram Model](link-a-tu-repo)
+A foundational NLP project exploring probabilistic character transitions and the basics of generative modeling.
+
+---
+
+## 📈 My Learning Path
+- 📖 **Paper Reading:** Deeply studying "Attention is All You Need" and historical SOTA papers.
+- 🏗️ **Architectures:** Moving from MLPs to Transformers and GPT-style models.
+- 🔭 **Physics & AI:** Exploring the intersection of computational physics and machine learning.
+
+---
+
+📫 **How to reach me:**
+[Tu LinkedIn] | [Tu Email] | [Tu Twitter/X si tienes]
+
+*"In mathematics you don't understand things. You just get used to them." — John von Neumann*
