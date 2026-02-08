@@ -1,7 +1,7 @@
 # Hi, I'm Sebastian 👋
-### Computer Engineering Student | Machine Learning Core & AI Engineering
+### Computer Science Student | Machine Learning Core & AI Engineering
 
-I am a passionate Computer Engineering student at **Universidad del Cauca**, currently in my 5th semester. My focus is on understanding the **mathematical and theoretical foundations** of Artificial Intelligence, moving beyond high-level abstractions to build systems from the ground up.
+I am a passionate Computer Science student at **Universidad del Cauca**, currently in my 5th semester. My focus is on understanding the **mathematical and theoretical foundations** of Artificial Intelligence, moving beyond high-level abstractions to build systems from the ground up.
 
 ---
 
@@ -22,7 +22,7 @@ I believe that true mastery of AI comes from understanding the gradients. My wor
 * **Deep Learning:** Building Multi-Layer Perceptrons (MLPs) from scalar autograd engines.
 
 ### **Tech Stack**
-* **Languages:** Python (Expert), C++, SQL.
+* **Languages:** Python (Expert), JavaScript, SQL.
 * **Frameworks:** PyTorch (Low-level/NumPy-style usage).
 * **AI Engineering:** Docker, Git/GitHub, Environment Management.
 * **In Progress:** JAX, TensorFlow, ONNX, and Cloud Deployment (AWS/GCP).
@@ -55,6 +55,3 @@ A foundational NLP project exploring probabilistic character transitions and the
 - 🏗️ **Architectures:** Moving from MLPs to Transformers and GPT-style models.
 - 🔭 **Physics & AI:** Exploring the intersection of computational physics and machine learning.
 
----
-
-*"In mathematics you don't understand things. You just get used to them." — John von Neumann*
