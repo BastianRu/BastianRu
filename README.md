@@ -1,4 +1,4 @@
-# Hi, I'm [Tu Nombre] 👋
+# Hi, I'm Sebastian 👋
 ### Computer Engineering Student | Machine Learning Core & AI Engineering
 
 I am a passionate Computer Engineering student at **Universidad del Cauca**, currently in my 5th semester. My focus is on understanding the **mathematical and theoretical foundations** of Artificial Intelligence, moving beyond high-level abstractions to build systems from the ground up.
