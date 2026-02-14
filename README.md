@@ -36,22 +36,12 @@ I believe that true mastery of AI comes from understanding the gradients. My wor
 
 ## 📂 Featured Projects
 
-### 🧠 [Probabilistic Neural Language Model]()
+### 🧠 [Probabilistic Neural Language Model](https://github.com/BastianRu/Deep-Learning-Foundations-From-Scratch-Journal/blob/main/04-Probabilistic_Neural_Language_Model/ProbabilisticNeuralLModel.ipynb)
 A PyTorch implementation of the seminal **Bengio et al. (2003)** paper. Focuses on word feature vectors (embeddings) and distributed representations before the Transformer era.
-
-### ⚡ [MLP Autograd Engine]()
-Inspired by Micrograd. A deep dive into the mechanics of backpropagation, building an MLP from basic scalar values to understand how every partial derivative flows through the graph.
-
-### 📊 [EBM & Energy-Based Variants]()
-Exploration of Energy-Based Model variants, focusing on alternative ways to define loss and objective functions in neural architectures.
-
-### 🔤 [Character-Level Bigram Model]()
-A foundational NLP project exploring probabilistic character transitions and the basics of generative modeling.
 
 ---
 
 ## 📈 My Learning Path
 - 📖 **Paper Reading:** Deeply studying "Attention is All You Need" and historical SOTA papers.
 - 🏗️ **Architectures:** Moving from MLPs to Transformers and GPT-style models.
-- 🔭 **Physics & AI:** Exploring the intersection of computational physics and machine learning.
 
