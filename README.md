@@ -9,7 +9,7 @@ I am a passionate Computer Science student at **Universidad del Cauca**, current
 I believe that true mastery of AI comes from understanding the gradients. My work focuses on implementing core architectures using only low-level tensor operations, avoiding high-level "black box" libraries whenever possible.
 
 - **Current Goal:** Full implementation of "Attention is All You Need" (Transformers) from scratch.
-- **Academic Honors:** - 🏆 **Two-time Academic Merit Scholarship** (Highest GPA in the program).
+- **Academic Honors:** - 🏆 **Three-time Academic Merit Scholarship** (Highest GPA in the program).
   - 🥇 **National Academic Excellence Recognition (Ranked 1st in High School Standardized Exam).
 
 ---
