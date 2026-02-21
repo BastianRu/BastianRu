@@ -36,8 +36,11 @@ I believe that true mastery of AI comes from understanding the gradients. My wor
 
 ## 📂 Featured Projects
 
-### 🧠 [Probabilistic Neural Language Model](https://github.com/BastianRu/Deep-Learning-Foundations-From-Scratch-Journal/blob/main/04-Probabilistic_Neural_Language_Model/ProbabilisticNeuralLModel.ipynb)
+### 🧠 [Probabilistic Neural Language Model](https://github.com/BastianRu/Deep-Learning-Foundations-From-Scratch-Journal/blob/main/04-Probabilistic_Neural_Language_Model/ProbabilisticNeuralLModel.ipynb) (WIP)
 A PyTorch implementation of the seminal **Bengio et al. (2003)** paper. Focuses on word feature vectors (embeddings) and distributed representations before the Transformer era.
+
+### [A Journey into the Core of Xavier Initialization](https://bastianru.github.io/xavier-init-from-scratch/) (WIP)
+A full mathematical derivation of the core of Xavier Initialization.
 
 ---
 
