@@ -23,7 +23,7 @@ I believe that true mastery of AI comes from understanding the gradients. My wor
 
 ### **Tech Stack**
 * **Languages:** Python (Expert), JavaScript, SQL.
-* **Frameworks:** PyTorch (Low-level/NumPy-style usage).
+* **Frameworks:** PyTorch, Pandas, Numpy, Matplotlib.
 * **AI Engineering:** Docker, Git/GitHub, Environment Management.
 * **In Progress:** JAX, TensorFlow, ONNX, and Cloud Deployment (AWS/GCP).
 
