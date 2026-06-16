@@ -8,7 +8,6 @@ I am a passionate Computer Science student at **Universidad del Cauca**, current
 ## 🔬 The "From Scratch" Philosophy
 I believe that true mastery of AI comes from understanding the gradients. My work focuses on implementing core architectures using only low-level tensor operations, avoiding high-level "black box" libraries whenever possible.
 
-- **Current Goal:** Full implementation of "Attention is All You Need" (Transformers) from scratch.
 - **Academic Honors:** - 🏆 **Three-time Academic Merit Scholarship** (Highest GPA in the program).
   - 🥇 **National Academic Excellence Recognition (Ranked 1st in High School Standardized Exam).
 
@@ -43,7 +42,3 @@ A PyTorch implementation of the seminal **Bengio et al. (2003)** paper. Focuses 
 A full mathematical derivation of the core of Xavier Initialization.
 
 ---
-
-## 📈 My Learning Path
-- 📖 **Paper Reading:** Deeply studying "Attention is All You Need" and historical SOTA papers.
-
