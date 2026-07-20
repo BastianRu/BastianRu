@@ -1,7 +1,7 @@
 # Hi, I'm Sebastian 👋
 ### Computer Science Student | Machine Learning Core & AI Engineering
 
-I am a passionate Computer Science student at **Universidad del Cauca**, currently in my 5th semester. My focus is on understanding the **mathematical and theoretical foundations** of Artificial Intelligence, moving beyond high-level abstractions to build systems from the ground up.
+I am a passionate Computer Science student at **Universidad del Cauca**, currently in my 6th semester. My focus is on understanding the **mathematical and theoretical foundations** of Artificial Intelligence, moving beyond high-level abstractions to build systems from the ground up.
 
 ---
 
@@ -21,13 +21,13 @@ I believe that true mastery of AI comes from understanding the gradients. My wor
 * **Deep Learning:** Building Multi-Layer Perceptrons (MLPs) from scalar autograd engines.
 
 ### **Tech Stack**
-* **Languages:** Python (Expert), JavaScript, SQL.
+* **Languages:** Python, JavaScript, SQL, C.
 * **Frameworks:** PyTorch, Pandas, Numpy, Matplotlib.
-* **AI Engineering:** Docker, Git/GitHub, Environment Management.
+* **AI Engineering:** Docker, Git/GitHub.
 * **In Progress:** JAX, TensorFlow, ONNX, and Cloud Deployment (AWS/GCP).
 
 ### **Mathematics**
-* **Linear Algebra:** Advanced proficiency.
+* **Linear Algebra:** solid proficiency.
 * **Calculus:** Differential, Multivariable, and Vector Calculus.
 * **Statistics:** Currently pursuing specialized certification in Statistics & Probability for Data Science.
 
@@ -38,7 +38,7 @@ I believe that true mastery of AI comes from understanding the gradients. My wor
 ### [Probabilistic Neural Language Model](https://github.com/BastianRu/Deep-Learning-Foundations-From-Scratch-Journal/blob/main/04-Probabilistic_Neural_Language_Model/ProbabilisticNeuralLModel.ipynb) (WIP)
 A PyTorch implementation of the seminal **Bengio et al. (2003)** paper. Focuses on word feature vectors (embeddings) and distributed representations before the Transformer era.
 
-### [A Journey into the Core of Xavier Initialization](https://bastianru.github.io/xavier-init-from-scratch/) (WIP)
-A full mathematical derivation of the core of Xavier Initialization.
+### [The deep learning archive](https://bastianru.github.io/deep-learning-archive/) (WIP)
+Rigorous theoretical explorations into the core of Deep Learning architectures, broken down step by step.
 
 ---
